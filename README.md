@@ -5,7 +5,7 @@
 - :computer: Um semestre de experiência
 - :hammer_and_wrench: Técnico em Administração
 - :purple_heart: Apaixonado pelo Palmeiras
-- :angel: 18 anos de puro caos
+- :angel: 21y 
 <hr>
 <a href="https://github.com/kexnux/kexnux">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kexnux&layout=compact&langs_count=7&theme=dracula"/>
